@@ -1,7 +1,6 @@
 # EDA_Play-Store-App-review-analysis
-# Play Store App Review Analysis
 
-!([play_store_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fcode%2Fahmedmohamedmahrous%2Fgoogle-play-store-eda-rating-prediction&psig=AOvVaw26hbJMAmx5ljuddEtx_H2Y&ust=1697870744511000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDsuMaDhIIDFQAAAAAdAAAAABAE))
+![play_store_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fcode%2Fahmedmohamedmahrous%2Fgoogle-play-store-eda-rating-prediction&psig=AOvVaw26hbJMAmx5ljuddEtx_H2Y&ust=1697870744511000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDsuMaDhIIDFQAAAAAdAAAAABAE)]
 
 ## Overview
 
@@ -26,10 +25,3 @@ List the main tools and libraries used in this project, including:
 - Pandas
 - Matplotlib
 - Seaborn
-
-## Getting Started
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/play-store-app-review-analysis.git
